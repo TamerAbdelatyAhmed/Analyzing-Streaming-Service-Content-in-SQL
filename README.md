@@ -9,4 +9,3 @@ To set up your integration, create a PostgreSQL integration with the following c
     Username: streaming_codealong
     Password: streaming_codealong
 
-Note: This is the solution workspace, and you will need to connect your own integration (or setup one using the credentials above) to use it!
