@@ -1,5 +1,5 @@
 # Analyzing-Streaming-Service-Content-in-SQL
-Welcome to your webinar workspace! You can follow along as we analyze the data in a SQL database and visualize the results.
+I analyze the data in a SQL database and visualize the results.
 
 To set up your integration, create a PostgreSQL integration with the following credentials:
 
